@@ -8,4 +8,4 @@ spec:
   - name: http
     port: 8080
   selector:
-  app: recipe-service-deployment
+    app: recipe-service-deployment
