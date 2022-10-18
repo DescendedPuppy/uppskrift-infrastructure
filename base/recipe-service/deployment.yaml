@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: waidmann/recipe-service:latest
+        image: waidmann/recipe-service:0.0.2
         ports:
         - name: http
           containerPort: 8080
